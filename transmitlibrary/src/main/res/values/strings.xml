@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TransmitLibrary</string>
+    <string name="receet_service_UUID">0000fffe-0000-1000-8000-00805f9b34fb</string>
+    <string name="receet_beacon_ID_charastrastic_UUID">B1428E10-9894-4D5E-BB39-9136E124CA10</string>
+</resources>
